@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactBasic/static/css/main.93b2eee2.css",
-    "main.js": "/ReactBasic/static/js/main.503b0ea9.js",
+    "main.css": "/ReactBasic/static/css/main.4e9e4e25.css",
+    "main.js": "/ReactBasic/static/js/main.8bc3e675.js",
     "static/js/787.28cb0dcd.chunk.js": "/ReactBasic/static/js/787.28cb0dcd.chunk.js",
     "static/media/workinProgess.gif": "/ReactBasic/static/media/workinProgess.a9ef5f79e58c5271784c.gif",
     "static/media/HendersonBCGSans-ThinItalic.woff": "/ReactBasic/static/media/HendersonBCGSans-ThinItalic.8e6d3d1ef82dae84fac1.woff",
@@ -21,12 +21,12 @@
     "static/media/HendersonBCGSans-Italic.woff2": "/ReactBasic/static/media/HendersonBCGSans-Italic.17639ded2ac2e1e45f6b.woff2",
     "static/media/HendersonBCGSans-Bold.woff2": "/ReactBasic/static/media/HendersonBCGSans-Bold.170802eb0784a6fa0bc7.woff2",
     "index.html": "/ReactBasic/index.html",
-    "main.93b2eee2.css.map": "/ReactBasic/static/css/main.93b2eee2.css.map",
-    "main.503b0ea9.js.map": "/ReactBasic/static/js/main.503b0ea9.js.map",
+    "main.4e9e4e25.css.map": "/ReactBasic/static/css/main.4e9e4e25.css.map",
+    "main.8bc3e675.js.map": "/ReactBasic/static/js/main.8bc3e675.js.map",
     "787.28cb0dcd.chunk.js.map": "/ReactBasic/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b2eee2.css",
-    "static/js/main.503b0ea9.js"
+    "static/css/main.4e9e4e25.css",
+    "static/js/main.8bc3e675.js"
   ]
 }
